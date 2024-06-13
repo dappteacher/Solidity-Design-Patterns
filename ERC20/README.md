@@ -54,7 +54,7 @@ This example creates a new token called "MyToken" with the symbol "MTK" and an i
 
 Clone the repository:
 ```sh
-git clone https://github.com/dappteacher/ERC20.git
+git clone https://github.com/dappteacher/Solidity-Design-Patterns.git
 ```
 
 Install dependencies (if any):
