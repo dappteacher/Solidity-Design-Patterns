@@ -50,35 +50,6 @@ contract MyToken is ERC20 {
 
 This example creates a new token called "MyToken" with the symbol "MTK" and an initial supply of 1,000,000 tokens.
 
-## Installation
-
-Clone the repository:
-```sh
-git clone https://github.com/dappteacher/Solidity-Design-Patterns.git
-```
-
-Install dependencies (if any):
-```sh
-npm install
-```
-
-Compile the contracts:
-```sh
-npx hardhat compile
-```
-
-Deploy the contracts:
-```sh
-npx hardhat run scripts/deploy.js --network <network-name>
-```
-
-## Testing
-
-To run tests, use the following command:
-```sh
-npx hardhat test
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
