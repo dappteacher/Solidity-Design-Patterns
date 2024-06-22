@@ -1,4 +1,3 @@
-Here's a README.md file for your Auction folder that includes both the `SimpleAuction` and `AuctionFactory` contracts:
 
 ```markdown
 # Auction Contracts
