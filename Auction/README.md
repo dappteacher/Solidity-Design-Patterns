@@ -1,5 +1,4 @@
 
-```markdown
 # Auction Contracts
 
 This repository contains Solidity smart contracts for creating and managing auctions of ERC721 NFTs. The contracts included are `SimpleAuction` and `AuctionFactory`.
