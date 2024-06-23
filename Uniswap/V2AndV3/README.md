@@ -75,4 +75,3 @@ This contract enables users to swap tokens on Uniswap V3.
 - GitHub: [dappteacher](https://www.github.com/dappteacher)
 ```
 
-This `README.md` file provides an overview of the Uniswap V2 and V3 swap contracts, their code, and the key differences between the two versions.
