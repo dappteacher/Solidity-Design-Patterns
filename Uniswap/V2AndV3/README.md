@@ -66,7 +66,7 @@ This contract enables users to swap tokens on Uniswap V3.
 ## Note
 
 - Make sure to adjust the router address according to the network you are using (e.g., Mainnet, Ropsten, etc.).
-- You might need to update the Solidity version (`pragma solidity ^0.8.0;`) to match the version compatible with your development environment and Uniswap contracts.
+- You might need to update the Solidity version (`pragma solidity ^0.8.25;`) to match the version compatible with your development environment and Uniswap contracts.
 - Test the contracts thoroughly in a development environment before deploying them to a live network.
 
 ## Author
