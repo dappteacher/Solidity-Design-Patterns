@@ -73,5 +73,3 @@ This contract enables users to swap tokens on Uniswap V3.
 
 - **Yaghoub Adelzadeh**
 - GitHub: [dappteacher](https://www.github.com/dappteacher)
-```
-
