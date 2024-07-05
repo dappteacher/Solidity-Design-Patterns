@@ -1,4 +1,3 @@
-```markdown
 # ERC20 Token Implementation
 
 This repository contains a basic implementation of the ERC20 token standard using Solidity.
