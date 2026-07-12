@@ -495,4 +495,3 @@ That single design decision enables multisig wallets, social recovery, passkeys,
 ---
 
 For more information, please visit [Yaghoub Adelzadeh's GitHub](https://www.github.com/dappteacher).
-```
